@@ -26,7 +26,7 @@
     "dist"
   ],
   "devDependencies": {
-    "@mtti/eslint-config-typescript": "^1.0.0",
+    "@mtti/eslint-config-typescript": "1.0.0",
     "@types/jest": "24.0.18",
     "@typescript-eslint/eslint-plugin": "2.3.0",
     "@typescript-eslint/parser": "2.3.0",
