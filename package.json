@@ -24,8 +24,8 @@
   },
   "files": [
     "dist",
-    "!dist/*.spec.js",
-    "!dist/*.spec.d.ts"
+    "!dist/**/*.spec.js",
+    "!dist/**/*.spec.d.ts"
   ],
   "devDependencies": {
     "@mtti/eslint-config-typescript": "1.0.0",
