@@ -1,3 +1,4 @@
+[![Written in TypeScript](https://flat.badgen.net/badge/icon/typescript?icon=typescript&label)](http://www.typescriptlang.org/) <!-- [![npm](https://flat.badgen.net/npm/v/@mtti/typescript-base?icon=npm)](https://www.npmjs.com/package/@mtti/typescript-base) --> [![Travis](https://flat.badgen.net/travis/mtti/typescript-base?icon=travis)](https://travis-ci.org/mtti/typescript-base) [![License](https://flat.badgen.net/github/license/mtti/typescript-base)](https://github.com/mtti/typescript-base/blob/master/LICENSE)
 
 This is my personal backend TypeScript base project.
 
