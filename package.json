@@ -26,7 +26,7 @@
   },
   "files": [
     "lib",
-    "!lib/**/*.spec.*"
+    "!lib/**/*.test.*"
   ],
   "devDependencies": {
     "@mtti/eslint-config-typescript": "1.0.0",

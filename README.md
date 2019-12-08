@@ -2,7 +2,7 @@
 
 This is my personal backend TypeScript base project.
 
-I aim to support the newest Node.js version [supported by AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html), which at the time of me last bothering to update this was *12.13.0*.
+I try to support the newest Node.js version [supported by AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html), which was `12.13.0` at the time of last updating this repository.
 
 ## Checklist
 
